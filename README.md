@@ -8,5 +8,9 @@ TODO:
 
 How to compile and run SGXARS
 
+Fix Makefile by manually adding paths for required libraries (namely openssl-sgx and ZeroTrace) and type 'make'
+
+An executable "App" will be generated and contains basic idea about the solution.
+
 
 A simple website demo can be found in ‘website.zip’.
